@@ -1,0 +1,6 @@
+{
+  "name": "Katapayadi",
+  "description": "An Ancient Indian Numerical Encoding System — Educational Indian Knowledge Systems (IKS) Web App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
